@@ -4,6 +4,7 @@
     "commonjs": true,
     "node": true
   },
+  "ignorePatterns": "node_modules/bignumber.js",
   "rules": {
     "no-duplicate-case": "error",
     "no-empty": "error",
